@@ -1,1 +1,0 @@
-bateau.o: bateau.c
